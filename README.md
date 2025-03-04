@@ -7,3 +7,8 @@ prize of that Food
 2)
 then these above process is one again ask user About Any Other order then it will show Total Cost
 it is connected to Tkinter GUI Python
+
+
+#Instruction for the contributing 
+-did not change the code language 
+-only valid code can merge 
